@@ -1,7 +1,6 @@
 ### Hi there 👋
 ## My name is Artem
 
-*I work with technologies such as `JS, React, Redux Toolkit`*
 
 <!--
 **2headAV/2headAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
